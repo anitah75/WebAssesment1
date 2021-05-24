@@ -1,0 +1,32 @@
+.logo_cia {
+    width: 4.2rem;
+}
+
+h1 {
+    font-weight: bolder;
+    color: rgb(92, 181, 184);
+    
+}
+
+form {
+    background-color: rgb(192, 222, 223);
+}
+
+iframe{
+    width: 500px; 
+    height:350px; 
+    border-color:black;
+}
+
+.footer{
+    text-align: center;
+    
+}
+
+.card-img-top{
+    border-radius: 10px;
+}
+.card imgstyle{
+    border-radius: 10px;
+
+}
