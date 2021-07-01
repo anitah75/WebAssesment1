@@ -1,1 +1,2 @@
-# WebAssesment1
+# First Assessment Generation Program
+HTML, bootstrap5, CSS
