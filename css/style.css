@@ -9,7 +9,13 @@ h1 {
 }
 
 form {
-    background-color: rgb(192, 222, 223);
+    background-color: rgb(192, 222, 223);   
+}
+
+.btn-primary{
+    border-radius: 10px;
+    background-color: rgb(5, 126, 126);
+    border:none;
 }
 
 iframe{
@@ -26,8 +32,12 @@ iframe{
 .card-img-top{
     border-radius: 10px;
 }
-.card imgstyle{
+.card {
     border-radius: 10px;
-
+    transition: transform 1.3s;
 }
 
+.imgstyle:hover{
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    transform: scale(1.1);
+    }
